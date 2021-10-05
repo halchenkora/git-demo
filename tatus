@@ -1,0 +1,68 @@
+[33mcommit 37e7d4a2a3c30959d43d4968b5626288ccfcec2c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Roman Halchenko <halchenkora@gmail.com>
+Date:   Tue Oct 5 19:28:25 2021 +0300
+
+    Revert "commit poem with useless text"
+    
+    This reverts commit 70917bfcbbc9debec7625d3b66551bed0d4b20d4.
+    
+    This revert action will delete useless lines
+
+[33mcommit 70917bfcbbc9debec7625d3b66551bed0d4b20d4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Roman Halchenko <halchenkora@gmail.com>
+Date:   Tue Oct 5 19:27:29 2021 +0300
+
+    commit poem with useless text
+
+[33mcommit dfd01cbf3184f72ef89e5acc5bd26ccdfda60ead[m
+Author: Roman Halchenko <halchenkora@gmail.com>
+Date:   Tue Oct 5 19:18:20 2021 +0300
+
+    Revert "added some joke"
+    
+    This reverts commit 549548586ad455434a446fd407272b5b2b17b08a.
+    I'm so sorry!
+
+[33mcommit 549548586ad455434a446fd407272b5b2b17b08a[m
+Author: Roman Halchenko <halchenkora@gmail.com>
+Date:   Tue Oct 5 19:17:19 2021 +0300
+
+    added some joke
+
+[33mcommit 7dbaa621f5d5fd56a217da4ae590a2daf1246e40[m
+Author: Roman Halchenko <halchenkora@gmail.com>
+Date:   Tue Oct 5 19:15:34 2021 +0300
+
+    Revert "added some joke"
+    
+    This reverts commit 7966808227a9c3dafbfb3bb01a834897a816bfaa.
+
+[33mcommit 7966808227a9c3dafbfb3bb01a834897a816bfaa[m
+Author: Roman Halchenko <halchenkora@gmail.com>
+Date:   Tue Oct 5 19:11:43 2021 +0300
+
+    added some joke
+
+[33mcommit 83598d9c49196160e87ee1af0d1ec500cf2f4a2c[m
+Author: halchenkora <59482684+halchenkora@users.noreply.github.com>
+Date:   Tue Oct 5 17:28:33 2021 +0300
+
+    added another file
+
+[33mcommit 86544f191e31b32b1cb538cdc1de1b68482a4d12[m
+Author: Roman Halchenko <halchenkora@gmail.com>
+Date:   Tue Oct 5 17:24:30 2021 +0300
+
+    add 2 another lines
+
+[33mcommit d85fd0584650c9cc29ffbc4f04b58361b699affe[m
+Author: Roman Halchenko <halchenkora@gmail.com>
+Date:   Tue Oct 5 17:21:28 2021 +0300
+
+    add first 2 lines
+
+[33mcommit 11ceaa535fc0fa6f039fafffaa7067a55f7e0245[m
+Author: halchenkora <59482684+halchenkora@users.noreply.github.com>
+Date:   Tue Oct 5 17:15:56 2021 +0300
+
+    Initial commit
